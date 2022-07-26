@@ -4,7 +4,7 @@ construction d'une application météo pour apprendre React
 
 Cette aplication a été créé dans un but d'apprentissage par la pratique.
 
-Api utilisé : https://github.com/GuillaumePons63/AppliMeteoReact.git
+Api utilisé : https://www.prevision-meteo.ch/uploads/pdf/recuperation-donnees-meteo.pdf
 Bibliothéque CSS : https://cirrus-ui.netlify.app/ cirrus (parce que faut changer de bootstrap)
 Et bien sûr le framework js : https://fr.reactjs.org/
 
