@@ -1,0 +1,22 @@
+{
+  "name": "applimeteoreact",
+  "version": "1.0.0",
+  "description": "construction d'une application météo pour apprendre React",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumePons63/AppliMeteoReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumePons63/AppliMeteoReact/issues"
+  },
+  "homepage": "https://github.com/GuillaumePons63/AppliMeteoReact#readme",
+  "devDependencies": {
+    "electron": "^19.0.10"
+  }
+}
